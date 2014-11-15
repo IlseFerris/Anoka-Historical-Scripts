@@ -1,0 +1,1 @@
+MsgBox date + 45

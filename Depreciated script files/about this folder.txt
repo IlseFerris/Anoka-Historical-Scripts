@@ -1,0 +1,7 @@
+This folder is for recently removed scripts which may come back.
+
+When you add a script to this folder, add comments to the script indicating why it's here. Be organized for your fellow script writers!
+
+If you have scripts that have been removed for a year or so, and are unlikely to return, back them up to a CD and/or jump drive, 
+  and remove them from the folder. Keep a clean shop! :)
+
